@@ -9,15 +9,6 @@
 **🐼 PANDAS • 🔢 NUMPY • 📊 MATPLOTLIB • 📈 SEABORN**
 
 ## 👨‍💻 **CODING WITH MAAZI**
-
-</div>
-
----
-
-## 📸 **PROJECT PREVIEW**
-
-![Patient Health Analyzer](patient_health_analyzer.png)
-
 ---
 
 ## 📌 **PROJECT OVERVIEW**
